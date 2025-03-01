@@ -1,6 +1,5 @@
 streamlit
 replicate
 fitz
-faiss
 numpy
 sentence_transformers

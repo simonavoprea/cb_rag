@@ -1,5 +1,6 @@
 streamlit
 replicate
+PyMuPDF 
 fitz
 numpy
 sentence_transformers

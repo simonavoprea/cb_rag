@@ -2,3 +2,4 @@ streamlit
 replicate
 pymupdf 
 faiss-cpu
+sentence_transformers

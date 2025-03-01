@@ -3,3 +3,4 @@ replicate
 fitz
 numpy
 sentence_transformers
+frontend
